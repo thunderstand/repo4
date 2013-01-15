@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Salut\n");
+	printf("Salut.\nTe afli pe ramura 2.\n");
 	return 0;
 }
